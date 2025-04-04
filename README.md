@@ -36,20 +36,15 @@ I'm **Sanga Kim**, a student aspiring to become a **Cloud Engineer** ☁️, bas
 
 ## 📝 My latest posts
 
-🔥 [Create Your First Ethereum Smart Contract With Remix IDE](#)  
-_**Build a Blockchain-powered chat from your browser!**_
+🔥 
 
-🔧 [How to Create a Self-Updating README.md for Your GitHub Profile](#)  
-_A good tutorial to do your first steps with GitHub Actions_
+🔧 
 
-📦 [How You Should Structure Your React Applications](#)  
-_A matter of taste, sure, but here is an approach that scales._
+📦 
 
-💡 [Pro Tips to Help You Get Started With Your Side Project](#)  
-_Begin with solid foundations to keep the excitement kicking in..._
+💡 
 
-🧠 [How to Take Care of Your Personal Branding as a Programmer](#)  
-_It’s more than just refreshing your resume_
+🧠 
 
-🚀 [7 New Features Shipping With ES2020](#)  
-_GlobalThis, optional chaining, private fields in classes, and more_
+
+🚀
