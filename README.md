@@ -35,16 +35,3 @@ I'm **Sanga Kim**, a student aspiring to become a **Cloud Engineer** ☁️, bas
 ---
 
 ## 📝 My latest posts
-
-🔥 
-
-🔧 
-
-📦 
-
-💡 
-
-🧠 
-
-
-🚀
