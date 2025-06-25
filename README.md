@@ -3,7 +3,7 @@
 ## ✨ Welcome to my cloud journey!
 
 Welcome to my page!  
-I'm **Sanga Kim**, a student aspiring to become a **Cloud Engineer** ☁️, based in 🇰🇷 **Seoul, South Korea**.
+I'm **Sanga Kim**, a student aspiring to become a **Cloud Engineer** ☁️, based in 🇰🇷 **Suwon, South Korea**.
 
 ---
 
