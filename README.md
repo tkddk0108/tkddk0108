@@ -90,5 +90,5 @@ I ask **why it's built this way** and **how it can be better**: faster, simpler,
 
 ---
 
-📫 Let's connect on [LinkedIn](https://www.linkedin.com)  
-or explore my projects on [GitHub](https://github.com)
+📫 Let's connect on [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
+or explore my projects on [GitHub](https://github.com/tkddk0108)
