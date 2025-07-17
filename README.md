@@ -2,10 +2,11 @@
 
 ## ✨ Welcome to my cloud journey!
 
-I'm **Sanga Kim**, based in 🇰🇷 **Suwon, South Korea**,  
-with a strong interest in **cloud infrastructure** — both as an engineer and a planner.  
-I’m passionate about designing systems that are not only robust and scalable,  
-but also meaningful in their purpose and impact.
+Welcome to my page!  
+I'm **Sanga Kim**, a student deeply interested in **cloud infrastructure and operations** ☁️  
+based in 🇰🇷 **Suwon, South Korea**. 
+
+단순히 견고하고 확장 가능한 시스템을 넘어서, **의미 있고 목적이 분명한 구조를 설계하는 일**에 열정을 가지고 있습니다.
 
 ---
 
