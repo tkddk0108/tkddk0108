@@ -3,6 +3,7 @@
 ## ✨ Welcome to my cloud journey!
 
 Welcome to my page!  
+
 I'm **Sanga Kim**, a student deeply interested in **cloud infrastructure and operations** ☁️  
 based in 🇰🇷 **Suwon, South Korea**. 
 
